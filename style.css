@@ -12,7 +12,7 @@ a{
     font
 }
 .section{
-    font-family: sans-serif;
+   
     display: flex;
     padding-top: 130px;
     padding-left: 100px;
@@ -26,7 +26,7 @@ a{
     
 }
 .txt{
-    
+    font-family: sans-serif;
     margin-right: 100px;
 }
 h1{
@@ -44,8 +44,8 @@ h1{
 }
 .trg{
     position: absolute;
-    top: 70px;
-    left: 1180px;
+    top: 80px;
+    left: 1178px;
 }
 .arr{
     width: 100px;
@@ -95,7 +95,7 @@ article{
 .picture1{
     display: flex;
     justify-content: space-around;
-    font-family: sans-serif;
+   font-family: sans-serif;
 }
 .title1{
     text-align: center;
